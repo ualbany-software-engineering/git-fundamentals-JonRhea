@@ -1,0 +1,1 @@
+My name is Jon Rhea. I'm a senior at UAlbany in the Computer Science program. The languages I know best are Java and C, but I also know a bit about C++, JavaScript, Android development and IOS development. I also build a neat Discord music bot over the summer using JavaScript (rest in piece RhythmBot).
